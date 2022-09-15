@@ -1,6 +1,6 @@
 {
   "name": "tradehood-printer-application",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tradehood Printer Application",
   "main": "./dist/main/main.js",
   "scripts": {
