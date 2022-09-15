@@ -65,6 +65,11 @@
       }
     ]
   },
+  "publish": {
+    "provider": "github",
+    "owner": "tradehood-print",
+    "repo": "tradehood-print"
+  },
   "jest": {
     "moduleDirectories": [
       "node_modules",
